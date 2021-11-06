@@ -14,7 +14,7 @@ steamPage:
         Początkowo przekształcanie kształtów będzie proste, ale później będziesz również musiał je malować - wymaga to wydobywania i łączenia barwników!
 
         Kupienie gry w serwisie Steam przyznaje Ci dostęp do pełnej wersji, ale możesz również skorzystać z wersji demonstracyjnej na strone shapez.io i rozważyć zakup później!
-    what_others_say: What people say about shapez.io
+    what_others_say: co inni sądzą o shapez.io?
     nothernlion_comment: This game is great - I'm having a wonderful time playing,
         and time has flown by.
     notch_comment: Oh crap. I really should sleep, but I think I just figured out
@@ -74,7 +74,7 @@ mainMenu:
     subreddit: Reddit
     savegameUnnamed: Zapis bez nazwy
     puzzleMode: Puzzle Mode
-    back: Back
+    back: wróć
     puzzleDlcText: Do you enjoy compacting and optimizing factories? Get the Puzzle
         DLC now on Steam for even more fun!
     puzzleDlcWishlist: Wishlist now!
@@ -94,7 +94,7 @@ dialogs:
         showKeybindings: Pokaż Klawiszologię
         retry: Retry
         continue: Continue
-        playOffline: Play Offline
+        playOffline: graj offline
     importSavegameError:
         title: Błąd importowania
         text: "Nie udało się zaimportować twojego zapisu gry:"
@@ -200,15 +200,15 @@ dialogs:
     editConstantProducer:
         title: Set Item
     puzzleLoadFailed:
-        title: Puzzles failed to load
+        title: Błąd wczytywania poziomu
         desc: "Unfortunately the puzzles could not be loaded:"
     submitPuzzle:
-        title: Submit Puzzle
-        descName: "Give your puzzle a name:"
+        title: Publikowanie twojego poziomu
+        descName: "Ustaw nazwę twojego poziomu:"
         descIcon: "Please enter a unique short key, which will be shown as the icon of
             your puzzle (You can generate them <link>here</link>, or choose one
             of the randomly suggested shapes below):"
-        placeholderName: Puzzle Title
+        placeholderName: Tytuł poziomu
     puzzleResizeBadBuildings:
         title: Resize not possible
         desc: You can't make the zone any smaller, because then some buildings would be
@@ -217,25 +217,25 @@ dialogs:
         title: Bad Puzzle
         desc: "The puzzle failed to load:"
     offlineMode:
-        title: Offline Mode
+        title: Tryb offline
         desc: We couldn't reach the servers, so the game has to run in offline mode.
             Please make sure you have an active internet connection.
     puzzleDownloadError:
-        title: Download Error
-        desc: "Failed to download the puzzle:"
+        title: Błąd pobierania
+        desc: "Niepowodzienie podczas pobierania poziomu:"
     puzzleSubmitError:
         title: Submission Error
         desc: "Failed to submit your puzzle:"
     puzzleSubmitOk:
-        title: Puzzle Published
-        desc: Congratulations! Your puzzle has been published and can now be played by
-            others. You can now find it in the "My puzzles" section.
+        title: Poziom opublikowany
+        desc: Gratulacje! twój poziom został opublikowany i teraz może być ogrywany przez innych. 
+        Możesz teraz go zobaczyć w sekcji "Moje poziomy"
     puzzleCreateOffline:
-        title: Offline Mode
+        title: Tryb offline
         desc: Since you are offline, you will not be able to save and/or publish your
             puzzle. Would you still like to continue?
     puzzlePlayRegularRecommendation:
-        title: Recommendation
+        title:
         desc: I <strong>strongly</strong> recommend playing the normal game to level 12
             before attempting the puzzle DLC, otherwise you may encounter
             mechanics not yet introduced. Do you still want to continue?
